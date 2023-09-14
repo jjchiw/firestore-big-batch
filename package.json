@@ -1,6 +1,6 @@
 {
   "name": "@qualdesk/firestore-big-batch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A library to work around hard limit for Firestore Batched Writes",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -19,7 +19,7 @@
     "@google-cloud/firestore": "^6.7.0",
     "typescript": "^5.2.2"
   },
-  "repository": "github:qualdesk/firestore-big-batch",
+  "repository": "github:jjchiw/firestore-big-batch",
   "keywords": [
     "firestore",
     "firebase",
